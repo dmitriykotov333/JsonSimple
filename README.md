@@ -1,8 +1,5 @@
-# Android laboratory work.
-# This application statemens, which is not stored in the database, but in objects.
-# Application add, delete item.
-# Random generatedId and random choose icon for any items.
-# For the description of the code is used JavaDoc
-![preview1](https://github.com/dmitriykotov333/JsonPreview/blob/master/preview1.gif)
-![preview2](https://github.com/dmitriykotov333/AndroidLaba1_2/blob/master/preview2.gif)
-![preview3](https://github.com/dmitriykotov333/AndroidLaba1_2/blob/master/preview3.gif)
+# Android lasimple project JSON.
+# Application uploads photos via JSON file .
+![preview1](https://github.com/dmitriykotov333/JsonPreview/blob/master/20181016_225752_edited.gif)
+![preview2](https://github.com/dmitriykotov333/AndroidLaba1_2/blob/master/20181016_225834_edited.gif)
+![preview3](https://github.com/dmitriykotov333/AndroidLaba1_2/blob/master/20181016_225901_edited.gif)
