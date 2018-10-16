@@ -1,0 +1,43 @@
+{
+  "user0":{
+    "email":"kd@.com",
+    "password":"1",
+    "name":"Котов Дмитрий Геннадьевич",
+    "city":"Ukraine, Odessa",
+    "work":"Programmer",
+    "skills":"Java/Android",
+    "icon":"https://instagram.fods1-1.fna.fbcdn.net/vp/0ccc1d5ecc3580e55d8c5eebbcd916c9/5C43EC20/t51.2885-19/s150x150/43282621_489901721514072_6322043554491269120_n.jpg",
+    "gr":[
+     "http://selimkaratas.com.tr/wp/wp-content/uploads/2014/10/20100501_OCP11gDBACertificate.jpg",
+      "https://www.sololearn.com/Certificate/1068-10861803/jpg/",
+      "http://alterstudy.ru/img/java-programming-600x300.png"
+    ]
+  },
+  "user1":{
+    "email":"ii@.com",
+    "password":"loser",
+    "name":"Ivanov Ivan",
+    "city":"New York",
+    "work":"Not Working",
+    "skills":"Alcohol",
+    "icon":"https://cdn.fishki.net/upload/post/2018/01/28/2495548/2-mnnfhsfa.jpg",
+    "gr":[
+      "http://cdn.oboxeditions.com/sites/prod/files/styles/largehd/public/article/la-fille-qui-aimait-boire-defi-28-jours-sans-alcool-et-prise-de-recul-414685.jpg",
+      "https://cdn.businessnews.com.au/articles-2017-04/17.04.19%20Drunk-businessman-holding-a-glass-of-whiskey_0.jpg"
+      ]
+      },
+  "user2":{
+    "email":"sva@.com",
+    "password":"va",
+    "name":"Сперанский Виктор Александрович",
+    "city":"Ukraine, Odessa",
+    "work":"Programmer/Teacher",
+    "skills":"Java/Android/C++/C#/HTML/JavaScript/CSS and something else there",
+    "icon":"http://dl.paulinedate.com/pluginfile.php/532/user/icon/adaptable/f1?rev=14176",
+        "gr":[
+          "https://edu.cbsystematics.com/Content/Education/Certificate_A_cbs.png",
+          "https://edu.cbsystematics.com/Content/Education/Diplom_A_cbs.png"
+        ]
+  }
+
+}
